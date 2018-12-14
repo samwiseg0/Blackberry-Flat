@@ -11,6 +11,13 @@ body {
 	height: auto;
 	background-color: rgba(0, 0, 0, .0);
 }
+.pace .pace-progress {
+    background: #24c3ff;
+}
+.pace .pace-activity {
+    border-top-color: #24c3ff;
+    border-left-color: #24c3ff;
+}
 html {
 	min-height: 100%;
 	height: auto;
