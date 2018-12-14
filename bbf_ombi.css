@@ -18,6 +18,9 @@ body {
     border-top-color: #24c3ff;
     border-left-color: #24c3ff;
 }
+.pace .pace-progress-inner {
+    box-shadow: 0 0 10px #24e8ff, 0 0 5px #24e8ff;
+}
 html {
 	min-height: 100%;
 	height: auto;
